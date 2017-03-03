@@ -1,5 +1,7 @@
 # About
 
+# This is forked from https://github.com/aleju/papers . I converted all the markdowns to ipython notebooks so that I can view in  Jupyter notebooks.
+
 This repository contains short summaries of some machine learning papers.
 
 * Added 2016/07/29:
